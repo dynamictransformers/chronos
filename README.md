@@ -1,4 +1,5 @@
 # chronos - App
+
 Meditation session scheduling and booking application for perceptor and Abhiyasi
 
 ## Actors
