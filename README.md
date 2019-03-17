@@ -1,5 +1,5 @@
 # chronos
-Meditation session scheduling and booking application
+Meditation session scheduling and booking application for perceptor and Abhiyasi
 
 ## Actors
 
